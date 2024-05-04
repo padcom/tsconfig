@@ -1,0 +1,14 @@
+{
+  "name": "@padcom/tsconfig",
+  "version": "0.0.1",
+  "description": "A base tsconfig for working with my projects",
+  "main": "tsconfig.json",
+  "files": [
+    "README.md",
+    "tsconfig.json",
+    "tsconfig.vue.json"
+  ],
+  "dependencies": {
+    "@vue/tsconfig": "^0.5.1"
+  }
+}
