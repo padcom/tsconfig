@@ -5,7 +5,8 @@
       "@/*": ["../../../src/*"]
     },
     "types": [
-      "vite/client"
+      "vite/client",
+      "vite-svg-loader"
     ]
   }
 }
