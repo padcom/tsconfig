@@ -9,6 +9,6 @@
     "tsconfig.vue.json"
   ],
   "dependencies": {
-    "@vue/tsconfig": "^0.5.1"
+    "@vue/tsconfig": "^0.7.0"
   }
 }
