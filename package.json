@@ -1,6 +1,6 @@
 {
   "name": "@padcom/tsconfig",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A base tsconfig for working with my projects",
   "main": "tsconfig.json",
   "files": [
